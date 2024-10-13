@@ -1,7 +1,7 @@
 ## Hi there 👋 It's me Harish
 
 Electrical and Electronic Engineering Student @ University of Peradeniya
-<img align="right" width="370" height="290" src="<iframe src="https://giphy.com/embed/Cpaq8odLDnHkDlHK1V" width="480" height="290" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/Cpaq8odLDnHkDlHK1V">via GIPHY</a></p>">
+<img align="right" width="370" height="290" src="https://giphy.com/embed/Cpaq8odLDnHkDlHK1V" width="480" height="290" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/Cpaq8odLDnHkDlHK1V">via GIPHY</a></p>">
                                     
 - 🌱 I’m currently learning CCNA
 - 👯 I’m looking to collaborate on Back-end Development
@@ -21,4 +21,4 @@ Electrical and Electronic Engineering Student @ University of Peradeniya
 
 ![Harishraj's GitHub stats](https://github-readme-stats.vercel.app/api?username=harishrajT&theme=dark&show_icons=true&&hide=issues,contribs)
 
-[![Harishraj's github activity graph]([![Harishraj's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=harishrajT&bg_color=050505&color=ffffff&line=9e4c98&point=928787&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph))
+[![Harishraj's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=harishrajT&bg_color=050505&color=ffffff&line=9e4c98&point=928787&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
