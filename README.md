@@ -1,7 +1,7 @@
 ## Hi there 👋 It's me Harish
 
 Electrical and Electronic Engineering Student @ University of Peradeniya
-<img align="right" width="370" height="290" src="https://giphy.com/embed/Cpaq8odLDnHkDlHK1V" width="480" height="290" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/Cpaq8odLDnHkDlHK1V">via GIPHY</a></p>">
+<img align="right" width="370" height="290" src="https://giphy.com/embed/Cpaq8odLDnHkDlHK1V">
                                     
 - 🌱 I’m currently learning CCNA
 - 👯 I’m looking to collaborate on Back-end Development
