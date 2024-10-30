@@ -3,7 +3,7 @@
 Electrical and Electronic Engineering Student @ University of Peradeniya
 <img align="right" width="296" height="232" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExaTMyZzk0aHdlZWdqMjhtbm5pdmV2YWk2bmhkaTJkanNiaXM1MTNndiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Cpaq8odLDnHkDlHK1V/giphy.gif">
                                     
-- 🌱 I’m currently learning CCNA
+- 🌱 I’m currently learning Web-Development
 - 👯 I’m looking to collaborate on Back-end Development
 - 🤔 I’m looking for help with Placements
 - 💬 Ask me about Tech
