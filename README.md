@@ -1,11 +1,14 @@
 # Hi, I'm Harishraj 👋
 
-<img align="right" width="240" hspace="16" vspace="8" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExaTMyZzk0aHdlZWdqMjhtbm5pdmV2YWk2bmhkaTJkanNiaXM1MTNndiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Cpaq8odLDnHkDlHK1V/giphy.gif" alt="Oscilloscope waveform">
+<p align="center">
+  <img width="320" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExaTMyZzk0aHdlZWdqMjhtbm5pdmV2YWk2bmhkaTJkanNiaXM1MTNndiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Cpaq8odLDnHkDlHK1V/giphy.gif" alt="Oscilloscope waveform">
+</p>
 
-**Electrical & Electronic Engineering Undergraduate**
-University of Peradeniya, Sri Lanka
-
-Telecommunications · Wireless Systems · Embedded Hardware
+<p align="center">
+  <b>Electrical &amp; Electronic Engineering Undergraduate</b><br>
+  University of Peradeniya, Sri Lanka<br><br>
+  📡 Telecommunications · Wireless Systems · Embedded Hardware
+</p>
 
 I like working where signals meet hardware: RF and acoustic links on ESP32, firmware written directly in AVR assembly, real-time image processing in Verilog on an FPGA, and machine learning for bandwidth-limited disaster communication.
 
@@ -13,8 +16,6 @@ I like working where signals meet hardware: RF and acoustic links on ESP32, firm
 - 📡 Recently built an **autonomous antenna alignment system** driven by live RSSI feedback
 - 🌐 **CCNA** training at the IT Center, University of Peradeniya
 - 🎯 Seeking opportunities in **telecommunications** and **embedded systems**
-
-<br clear="right"/>
 
 ---
 
