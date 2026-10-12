@@ -1,6 +1,6 @@
 # Hi, I'm Harishraj 👋
 
-<img align="right" width="240" hspace="16" vspace="8" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExaTMyZzk0aHdlZWdqMjhtbm5pdmV2YWk2bmhkaTJkanNiaXM1MTNndiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Cpaq8odLDnHkDlHK1V/giphy.gif" alt="Oscilloscope waveform">
+<img align="right" width="240" hspace="24" vspace="8" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExaTMyZzk0aHdlZWdqMjhtbm5pdmV2YWk2bmhkaTJkanNiaXM1MTNndiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Cpaq8odLDnHkDlHK1V/giphy.gif" alt="Oscilloscope waveform">
 
 **Electrical & Electronic Engineering Undergraduate**
 University of Peradeniya, Sri Lanka
